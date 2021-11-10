@@ -6,7 +6,7 @@ and make recommendations on diversification risk based on observed correlations
 
 Run on a mean reversion analysis on price data from the following
 Top 10 NASDAQ: MSFT/ APPL/ TSLA/ AMZN/ NVDA/ GOOG/ FB/ ADBE/ NFLX/ PYPL
-Top 10 Cryptos: BTC/ ETH/ BNB/ ADA/ XRP/ LTC/ LINK/ BCH/ VET/ XLM
+Top 10 Cryptos: BTC/ ETH/ BNB/ ADA/ XRP/ LTC/ LINK/ BCH/ DOGE/ XLM
 We may run further linear regression on other asset classes based on the empirical data we observe 
 
 Deep Patel: Alpaca API and Yahoo! Finance
