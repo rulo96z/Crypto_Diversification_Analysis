@@ -9,16 +9,18 @@ Top 10 NASDAQ: MSFT/ APPL/ TSLA/ AMZN/ NVDA/ GOOG/ FB/ ADBE/ NFLX/ PYPL
 Top 10 Cryptos: BTC/ ETH/ BNB/ ADA/ XRP/ LTC/ LINK/ BCH/ DOGE/ XLM
 We may run further linear regression on other asset classes based on the empirical data we observe 
 
-Deep Patel: Alpaca API and Yahoo! Finance
-Tristen Pulido: Quandl API
-Raul Nogales: Integration and Charting
-Tim Laurel: data scrubbbing and documentation
-Team: Presentation and recommendations
+Deep Patel: Alpaca API calls, assembling dataframes and .csv files 
+Tristen Pulido: Charting and Visual plotting 
+Raul Nogales: Data Scrubbing and integration 
+Tim Laurel: Documentation and Presentation 
+Team: Streamlit interactions for further data visualization
 
 ## Technologies
-This python 3.8.3 program use the following libraries: sys, fire, questionary, and pathlib current on 10/2/2021. It was tested in a git bash/ power-shell/ VScode environment in Windows 10.
+This python 3.8.3 program use the following libraries: sys, fire, questionary, and pathlib current on 10/2/2021. 
+It was tested in a git bash/ power-shell/ VScode environment in Windows 10.
 
-It uses calculator functions like: calculate debt, loan to value ratios and more, also we have filters functions like: debt to income ratio, loan to value ratio compared to the user entered amounts, loan size and credit score.
+It uses calculator functions like: calculate debt, loan to value ratios and more, also we have filters functions 
+like: debt to income ratio, loan to value ratio compared to the user entered amounts, loan size and credit score.
 
 It has already implemented functions to load and save CSV files.
 
