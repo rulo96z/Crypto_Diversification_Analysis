@@ -4,8 +4,7 @@ IS CRYPTO DECOUPLED FROM THE PRICE ACTION OF TECH STOCKS AND WILL IT INCREASE/DE
 Pull quarterly earnings of the top 10 tech stocks in NASDAQ and the top 10 tokens in crypto over the last 3 years
 and make recommendations on diversification risk based on observed correlations.
 
-<<<<<<< HEAD
-Run on a mean reversion analysis on price data from the following:
+Run on a analysis on price data from the following:
 
 > TOP 10 NASDAQ: `MSFT/ APPL/ TSLA/ AMZN/ NVDA/ GOOG/ FB/ ADBE/ NFLX/ PYPL`
 
@@ -49,7 +48,6 @@ Additional updates/ uploads for usability was added by `Tlaurel@gmail.com`
 Additional updates/ uploads for usability was added by `rulo.nogales@nogalesinvestments.com`
 
 ---
-
 ## License
 MIT License
 
@@ -72,12 +70,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-=======
-Run on a mean reversion analysis on price data from the following
-Top 10 NASDAQ: MSFT/ APPL/ TSLA/ AMZN/ NVDA/ GOOG/ FB/ ADBE/ NFLX/ PYPL
-Top 10 Cryptos: BTC/ ETH/ BNB/ ADA/ XRP/ LTC/ LINK/ BCH/ DOGE/ XLM
-We may run further linear regression on other asset classes based on the empirical data we observe 
 
 
->>>>>>> master
+
+
 
