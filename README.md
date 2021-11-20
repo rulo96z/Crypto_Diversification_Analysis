@@ -39,7 +39,11 @@ We will be runing this program on jupiter lab with the follow installation of Py
 ## Usage
 We need to run the file on our jupiter lab all the way down until we see our data visualization:
 
-![](?raw=true)
+![](https://github.com/rulo96z/Crypto_Diversification_Analysis/blob/master/Images/stand_deviation.png?raw=true)
+
+![](https://github.com/rulo96z/Crypto_Diversification_Analysis/blob/master/Images/sharpe_ratio.png?raw=true)
+
+![](https://github.com/rulo96z/Crypto_Diversification_Analysis/blob/master/Images/annual_avg_return.png?raw=true)
 
 ---
 ## Contributors
