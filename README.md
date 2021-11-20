@@ -17,7 +17,12 @@ This python **3.8.3** program use the following libraries:
 - **alpaca_trade_api**
 - **os**
 - **hvplot**
+- **dotenv**
+- **pathlib**
 
+**Optional**
+- **time**
+- **datetime**
 ---
 
 ## Installation Guide
@@ -27,13 +32,18 @@ We will be runing this program on jupiter lab with the follow installation of Py
 - [Python](https://www.python.org/downloads/)
 - [Alpaca_Doc](https://alpaca.markets/docs/)
 - [Pandas](https://pandas.pydata.org/docs/)
+- [Hvplot](https://hvplot.holoviz.org/)
 
 ---
 
 ## Usage
 We need to run the file on our jupiter lab all the way down until we see our data visualization:
 
-![](?raw=true)
+![](https://github.com/rulo96z/Crypto_Diversification_Analysis/blob/master/Images/stand_deviation.png?raw=true)
+
+![](https://github.com/rulo96z/Crypto_Diversification_Analysis/blob/master/Images/sharpe_ratio.png?raw=true)
+
+![](https://github.com/rulo96z/Crypto_Diversification_Analysis/blob/master/Images/annual_avg_return.png?raw=true)
 
 ---
 ## Contributors
