@@ -55,7 +55,7 @@ Additional updates/ uploads for usability was added by `tristenpulido@gmail.com`
 
 Additional updates/ uploads for usability was added by `Tlaurel@gmail.com`
 
-Additional updates/ uploads for usability was added by `rulo.nogales@nogalesinvestments.com`
+Additional updates/ uploads for usability was added by `raul@nogalesfundmgmt.com`
 
 ---
 ## License
